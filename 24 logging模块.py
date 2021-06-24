@@ -19,4 +19,5 @@ logging.warning('警告warn')
 logging.error('错误error')
 logging.critical('严重critical')
 
-print('commit成功未提交
+print('commit成功未提交')
+print('commit成功并提交')
