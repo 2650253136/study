@@ -21,3 +21,6 @@ logging.critical('严重critical')
 
 print('commit成功未提交')
 print('commit成功并提交')
+
+
+print('12345')
